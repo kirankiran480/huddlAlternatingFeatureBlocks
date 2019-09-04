@@ -1,0 +1,34 @@
+{
+  "name": "huddlalternatingfeatureblocks",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w sass/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirankiran480/huddlAlternatingFeatureBlocks.git"
+  },
+  "keywords": [
+    "huddl",
+    "frontend-mentors",
+    "UI",
+    "web-design",
+    "web",
+    "design",
+    "html",
+    "css",
+    "landingPages"
+  ],
+  "author": "Kiran gudla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirankiran480/huddlAlternatingFeatureBlocks/issues"
+  },
+  "homepage": "https://github.com/kirankiran480/huddlAlternatingFeatureBlocks#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
