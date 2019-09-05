@@ -1,3 +1,19 @@
-body {
-  font: outline;
+.header {
+  background-image: url('../images/bg-hero-desktop.svg');
+  height: 1000px;
+  header {
+    margin-top: 1%;
+    margin-left: 1%;
+    .button {
+      float: right;
+      padding: 10px 30px 10px;
+      border: 2px solid #dfecf2;
+      background: white;
+      border-radius: 30px;
+      text-decoration: none;
+      color: black;
+      font-weight: bolder;
+      box-shadow: 5px 5px 10px lightblue;
+    }
+  }
 }
